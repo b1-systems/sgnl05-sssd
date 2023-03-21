@@ -35,11 +35,11 @@
     },
     {
       "operatingsystem": "Ubuntu",
-      "operatingsystemrelease": ["14.04","16.04","18.04"]
+      "operatingsystemrelease": ["14.04","16.04","18.04", "20.04", "22.04"]
     },
     {
       "operatingsystem": "Debian",
-      "operatingsystemrelease": ["7", "8", "9"]
+      "operatingsystemrelease": ["7", "8", "9", "10", "11"]
     },
     {
       "operatingsystem": "Suse",
